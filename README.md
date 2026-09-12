@@ -14,7 +14,7 @@
   <p><b>Automated OTA Discovery • Direct Google CDN Pipeline • Zero-Telemetry Engine</b></p>
 
   <p>
-    <img src="https://img.shields.io/badge/Nothing_OS-Firmare-000000?style=for-the-badge&logo=android&logoColor=white" />
+    <img src="https://img.shields.io/badge/Nothing_OS-Firmware-000000?style=for-the-badge&logo=android&logoColor=white" />
     <img src="https://img.shields.io/badge/Pipeline-Official_Google_CDN-D81921?style=for-the-badge&logo=googlecloud&logoColor=white" />
     <img src="https://img.shields.io/badge/Privacy-Zero_Telemetry-000000?style=for-the-badge&logo=shield&logoColor=white" />
     <img src="https://img.shields.io/badge/License-MIT-EDEDED?style=for-the-badge&logoColor=black" />
@@ -39,15 +39,23 @@
 
 ---
 
-### 🌐 SUPPORTED ECOSYSTEM MATRIX
+### 📱 HARDWARE CODENAME MATRIX
 
-<table>
-<tr>
-<th width="52%">📦 TRACKED OFFICIAL APPS</th>
-<th width="48%">📱 HARDWARE CODENAME MATRIX</th>
-</tr>
-<tr>
-<td valign="top">
+| Device | Codename |
+| :--- | :--- |
+| **Nothing Phone (1)** | `Spacewar` |
+| **Nothing Phone (2)** | `Pong` |
+| **Nothing Phone (2a)** | `Pacman` |
+| **Nothing Phone (2a) Plus** | `PacmanPro` |
+| **Nothing Phone (3a)** | `Asteroids` |
+| **Nothing Phone (3a) Lite** | `Galaxian` |
+| **Nothing Phone (3)** | `Metroid` |
+| **CMF Phone 1** | `Tetris` |
+| **CMF Phone 2 Pro** | `Galaga` |
+
+---
+
+### 📦 TRACKED OFFICIAL APPS
 
 | Application | Package ID |
 | :--- | :--- |
@@ -63,25 +71,6 @@
 | **Essential Apps** | `com.nothing.essentialapps` |
 | **Essential Search** | `com.nothing.essential.search` |
 | **Games** | `com.nothing.games` |
-
-</td>
-<td valign="top">
-
-| Device | Codename |
-| :--- | :--- |
-| **Nothing Phone (1)** | `Spacewar` |
-| **Nothing Phone (2)** | `Pong` |
-| **Nothing Phone (2a)** | `Pacman` |
-| **Nothing Phone (2a) Plus** | `PacmanPro` |
-| **Nothing Phone (3a)** | `Asteroids` |
-| **Nothing Phone (3a) Lite** | `Galaxian` |
-| **Nothing Phone (3)** | `Metroid` |
-| **CMF Phone 1** | `Tetris` |
-| **CMF Phone 2 Pro** | `Galaga` |
-
-</td>
-</tr>
-</table>
 
 ---
 
