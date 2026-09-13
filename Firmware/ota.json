@@ -604,7 +604,7 @@
   "Spacewar": [
     {
       "title": "Nothing Phone (1)",
-      "version": "Nothing OS V3.2-20260618-1045",
+      "version": "Nothing OS V3.2-260618-1045",
       "codename": "Spacewar",
       "source_fingerprint": "Nothing/Spacewar/Spacewar:15/AQ3A.240929.001/2604161140:user/release-keys",
       "fingerprint": "Nothing/Spacewar/Spacewar:15/AQ3A.240929.001/2606181045:user/release-keys|Nothing/SpacewarEEA/Spacewar:15/AQ3A.240929.001/2606181045:user/release-keys",
@@ -614,7 +614,7 @@
     },
     {
       "title": "Nothing Phone (1)",
-      "version": "Nothing OS V3.2-20260416-1140",
+      "version": "Nothing OS V3.2-260416-1140",
       "codename": "Spacewar",
       "source_fingerprint": "Nothing/Spacewar/Spacewar:15/AQ3A.240929.001/2512191652:user/release-keys",
       "fingerprint": "Nothing/Spacewar/Spacewar:15/AQ3A.240929.001/2604161140:user/release-keys|Nothing/SpacewarEEA/Spacewar:15/AQ3A.240929.001/2604161140:user/release-keys",
