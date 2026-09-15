@@ -382,6 +382,16 @@
   "SuperContra": [
     {
       "title": "Nothing Phone (4b)",
+      "version": "Nothing OS B4.1-260904-1739",
+      "codename": "SuperContra",
+      "source_fingerprint": "Nothing/SuperContra/SuperContra:16/BQ2A.260210.001-BP2A.250705.008/2608111606:user/release-keys",
+      "fingerprint": "Nothing/SuperContra/SuperContra:16/BQ2A.260210.001-BP2A.250705.008/2609041739:user/release-keys|Nothing/SuperContraEEA/SuperContra:16/BQ2A.260210.001-BP2A.250705.008/2609041739:user/release-keys|Nothing/SuperContraIND/SuperContra:16/BQ2A.260210.001-BP2A.250705.008/2609041739:user/release-keys|Nothing/SuperContraJPN/SuperContra:16/BQ2A.260210.001-BP2A.250705.008/2609041739:user/release-keys|Nothing/SuperContraTUR/SuperContra:16/BQ2A.260210.001-BP2A.250705.008/2609041739:user/release-keys",
+      "ota_url": "https://android.googleapis.com/packages/ota-api/package/6e4bf99ecd3105e02db8379423a5d6365386b329.zip",
+      "changelog": "<h3>What's New in This Update</h3>\n<b>General Improvements and Bug Fixes</b><br>\n<br>\n🎚️ Optimised the volume slider animation effect at minimum volume for a more fluid feel.<br>\n🖼️ Improved preset UI display stability and fixed known glitches.<br>\n📶 Enhanced Wi-Fi connection stability and reliability.<br>\n📷 Enhanced overall camera stability.<br>\n⚙️ Enhanced overall system stability.<br>\n🛡️ Updated to September 2026 security patch.<br>\n<br>\n<b>Notes:</b><br>\nYour device may use more power and feel warmer during installation. Performance will return to normal after the update is complete.<br>",
+      "extracted_at": "2026-09-15 09:44:49 UTC"
+    },
+    {
+      "title": "Nothing Phone (4b)",
       "version": "Nothing OS B4.1-260811-1606",
       "codename": "SuperContra",
       "source_fingerprint": "Nothing/SuperContra/SuperContra:16/BQ2A.260210.001-BP2A.250705.008/2607031843:user/release-keys",
@@ -604,7 +614,7 @@
   "Spacewar": [
     {
       "title": "Nothing Phone (1)",
-      "version": "Nothing OS V3.2-260618-1045",
+      "version": "Nothing OS V3.2-20260618-1045",
       "codename": "Spacewar",
       "source_fingerprint": "Nothing/Spacewar/Spacewar:15/AQ3A.240929.001/2604161140:user/release-keys",
       "fingerprint": "Nothing/Spacewar/Spacewar:15/AQ3A.240929.001/2606181045:user/release-keys|Nothing/SpacewarEEA/Spacewar:15/AQ3A.240929.001/2606181045:user/release-keys",
@@ -614,7 +624,7 @@
     },
     {
       "title": "Nothing Phone (1)",
-      "version": "Nothing OS V3.2-260416-1140",
+      "version": "Nothing OS V3.2-20260416-1140",
       "codename": "Spacewar",
       "source_fingerprint": "Nothing/Spacewar/Spacewar:15/AQ3A.240929.001/2512191652:user/release-keys",
       "fingerprint": "Nothing/Spacewar/Spacewar:15/AQ3A.240929.001/2604161140:user/release-keys|Nothing/SpacewarEEA/Spacewar:15/AQ3A.240929.001/2604161140:user/release-keys",
