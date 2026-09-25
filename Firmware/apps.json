@@ -1,0 +1,98 @@
+[
+  {
+    "app_id": "com.nothing.launcher",
+    "title": "Nothing Launcher",
+    "version": "4.0.18",
+    "changelog": "🔧 Fixed general bugs and improved the user experience.",
+    "updated_at": "2026-07-28",
+    "play_url": "https://play.google.com/store/apps/details?id=com.nothing.launcher"
+  },
+  {
+    "app_id": "com.nothing.gallery",
+    "title": "Nothing Gallery",
+    "version": "3.1.2.0819",
+    "changelog": "This release focuses on stability and key bug fixes.",
+    "updated_at": "2026-08-21",
+    "play_url": "https://play.google.com/store/apps/details?id=com.nothing.gallery"
+  },
+  {
+    "app_id": "com.nothing.weather",
+    "title": "Nothing Weather",
+    "version": "3.3.3",
+    "changelog": "🛠️ General bug fixes and enhanced user experience.",
+    "updated_at": "2026-09-07",
+    "play_url": "https://play.google.com/store/apps/details?id=com.nothing.weather"
+  },
+  {
+    "app_id": "com.nothing.communitywidgets",
+    "title": "Nothing Community Widgets",
+    "version": "1.1.2",
+    "changelog": "Introducing Fortunes, a new community widget featuring fortunes, puns, riddles, and sarcasm delivered daily to your home screen. Created by Rahil Hussain with support from  Legendre.",
+    "updated_at": "2025-07-04",
+    "play_url": "https://play.google.com/store/apps/details?id=com.nothing.communitywidgets"
+  },
+  {
+    "app_id": "com.nothing.hearthstone",
+    "title": "Nothing Widgets",
+    "version": "3.4.1",
+    "changelog": "🧘‍♀️ Breathing Break widgets are now available, offering guided exercises to help you follow a breathing pace and relax.\n🛠️ General bug fixes and user experience improvements.",
+    "updated_at": "2026-08-27",
+    "play_url": "https://play.google.com/store/apps/details?id=com.nothing.hearthstone"
+  },
+  {
+    "app_id": "com.nothing.ntessentialspace",
+    "title": "Essential Space",
+    "version": "2.2.0",
+    "changelog": "What’s New in Essential Space\n• Stability & Performance\n 🐞 Bug fixes and stability enhancements.",
+    "updated_at": "2026-09-18",
+    "play_url": "https://play.google.com/store/apps/details?id=com.nothing.ntessentialspace"
+  },
+  {
+    "app_id": "com.nothing.wallpaper",
+    "title": "Nothing Wallpaper",
+    "version": "1.8.20",
+    "changelog": "🔧 Fixed general bugs and improved the user experience.",
+    "updated_at": "2026-07-06",
+    "play_url": "https://play.google.com/store/apps/details?id=com.nothing.wallpaper"
+  },
+  {
+    "app_id": "com.nothing.glyph.composer",
+    "title": "Glyph Composer",
+    "version": "1.4.4",
+    "changelog": "👾 General bug fixes & minor experience improvements\n💬 Support Japanese Ndot font\n🛠️ Support change the font in Settings-Experimental features",
+    "updated_at": "2025-07-08",
+    "play_url": "https://play.google.com/store/apps/details?id=com.nothing.glyph.composer"
+  },
+  {
+    "app_id": "com.nothing.games",
+    "title": "Games",
+    "version": "1.0.2",
+    "changelog": "Welcome to Games! Dive into simple, fast, and engaging experiences designed to help you unwind. Ready for your next adventure? Just tap and play!",
+    "updated_at": "2026-05-13",
+    "play_url": "https://play.google.com/store/apps/details?id=com.nothing.games"
+  },
+  {
+    "app_id": "com.nothing.essential.search",
+    "title": "Essential Search",
+    "version": "1.0.3",
+    "changelog": "🛠️ General bug fixes and performance improvements.",
+    "updated_at": "2026-01-30",
+    "play_url": "https://play.google.com/store/apps/details?id=com.nothing.essential.search"
+  },
+  {
+    "app_id": "com.nothing.essentialapps",
+    "title": "Essential Apps",
+    "version": "1.0.42",
+    "changelog": "Enhancements and bug fixes to system integrations.",
+    "updated_at": "2026-09-17",
+    "play_url": "https://play.google.com/store/apps/details?id=com.nothing.essentialapps"
+  },
+  {
+    "app_id": "com.nothing.icon",
+    "title": "Nothing Icon Pack",
+    "version": "1.0.2",
+    "changelog": "👾 General bug fixes and general improvements.",
+    "updated_at": "2024-07-17",
+    "play_url": "https://play.google.com/store/apps/details?id=com.nothing.icon"
+  }
+]
