@@ -24,20 +24,20 @@
     "play_url": "https://play.google.com/store/apps/details?id=com.nothing.weather"
   },
   {
-    "app_id": "com.nothing.hearthstone",
-    "title": "Nothing Widgets",
-    "version": "3.4.1",
-    "changelog": "🧘‍♀️ Breathing Break widgets are now available, offering guided exercises to help you follow a breathing pace and relax.\n🛠️ General bug fixes and user experience improvements.",
-    "updated_at": "2026-08-27",
-    "play_url": "https://play.google.com/store/apps/details?id=com.nothing.hearthstone"
-  },
-  {
     "app_id": "com.nothing.communitywidgets",
     "title": "Nothing Community Widgets",
     "version": "1.1.2",
     "changelog": "Introducing Fortunes, a new community widget featuring fortunes, puns, riddles, and sarcasm delivered daily to your home screen. Created by Rahil Hussain with support from  Legendre.",
     "updated_at": "2025-07-04",
     "play_url": "https://play.google.com/store/apps/details?id=com.nothing.communitywidgets"
+  },
+  {
+    "app_id": "com.nothing.hearthstone",
+    "title": "Nothing Widgets",
+    "version": "3.4.1",
+    "changelog": "🧘‍♀️ Breathing Break widgets are now available, offering guided exercises to help you follow a breathing pace and relax.\n🛠️ General bug fixes and user experience improvements.",
+    "updated_at": "2026-08-27",
+    "play_url": "https://play.google.com/store/apps/details?id=com.nothing.hearthstone"
   },
   {
     "app_id": "com.nothing.ntessentialspace",
@@ -56,20 +56,20 @@
     "play_url": "https://play.google.com/store/apps/details?id=com.nothing.wallpaper"
   },
   {
-    "app_id": "com.nothing.glyph.composer",
-    "title": "Glyph Composer",
-    "version": "1.4.4",
-    "changelog": "👾 General bug fixes & minor experience improvements\n💬 Support Japanese Ndot font\n🛠️ Support change the font in Settings-Experimental features",
-    "updated_at": "2025-07-08",
-    "play_url": "https://play.google.com/store/apps/details?id=com.nothing.glyph.composer"
-  },
-  {
     "app_id": "com.nothing.games",
     "title": "Games",
     "version": "1.0.2",
     "changelog": "Welcome to Games! Dive into simple, fast, and engaging experiences designed to help you unwind. Ready for your next adventure? Just tap and play!",
     "updated_at": "2026-05-13",
     "play_url": "https://play.google.com/store/apps/details?id=com.nothing.games"
+  },
+  {
+    "app_id": "com.nothing.glyph.composer",
+    "title": "Glyph Composer",
+    "version": "1.4.4",
+    "changelog": "👾 General bug fixes & minor experience improvements\n💬 Support Japanese Ndot font\n🛠️ Support change the font in Settings-Experimental features",
+    "updated_at": "2025-07-08",
+    "play_url": "https://play.google.com/store/apps/details?id=com.nothing.glyph.composer"
   },
   {
     "app_id": "com.nothing.essentialapps",
@@ -94,5 +94,13 @@
     "changelog": "👾 General bug fixes and general improvements.",
     "updated_at": "2024-07-17",
     "play_url": "https://play.google.com/store/apps/details?id=com.nothing.icon"
+  },
+  {
+    "app_id": "com.nothing.smartcenter",
+    "title": "Nothing X",
+    "version": "3.9.0",
+    "changelog": "1. Supports new Headphone (1) Pro \n2. Bug fixes and improvements",
+    "updated_at": "2026-09-21",
+    "play_url": "https://play.google.com/store/apps/details?id=com.nothing.smartcenter"
   }
 ]
