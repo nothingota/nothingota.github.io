@@ -480,6 +480,16 @@
   "Frogger": [
     {
       "title": "Nothing Phone (4a)",
+      "version": "Nothing OS B4.1-260911-0959",
+      "codename": "Frogger",
+      "source_fingerprint": "Nothing/Frogger/Frogger:16/BQ2A.250913.001-BP2A.250605.031.A3/2608081352:user/release-keys",
+      "fingerprint": "Nothing/Frogger/Frogger:16/BQ2A.250913.001-BP2A.250605.031.A3/2609110959:user/release-keys|Nothing/FroggerEEA/Frogger:16/BQ2A.250913.001-BP2A.250605.031.A3/2609110959:user/release-keys|Nothing/FroggerIND/Frogger:16/BQ2A.250913.001-BP2A.250605.031.A3/2609110959:user/release-keys|Nothing/FroggerJPN/Frogger:16/BQ2A.250913.001-BP2A.250605.031.A3/2609110959:user/release-keys|Nothing/FroggerTUR/Frogger:16/BQ2A.250913.001-BP2A.250605.031.A3/2609110959:user/release-keys",
+      "ota_url": "https://android.googleapis.com/packages/ota-api/package/45c070bc4872e8f056060dd1aa87d275ad9316fa.zip",
+      "changelog": "<h3>What's New in This Update</h3>\n<b>General Improvements and Bug Fixes</b><br>\n<br>\n📷 Enhanced overall camera stability.<br>\n⚙️ Enhanced overall system stability.<br>\n🛡️ Updated to September 2026 security patch.<br>\n<br>\n<b>Notes:</b><br>\nYour device may use more power and feel warmer during installation. Performance will return to normal after the update is complete.<br>",
+      "extracted_at": "2026-10-08 12:04:53 UTC"
+    },
+    {
+      "title": "Nothing Phone (4a)",
       "version": "Nothing OS B4.1-260808-1352",
       "codename": "Frogger",
       "source_fingerprint": "Nothing/Frogger/Frogger:16/BQ2A.250913.001-BP2A.250605.031.A3/2606301839:user/release-keys",
@@ -507,16 +517,6 @@
       "ota_url": "https://android.googleapis.com/packages/ota-api/package/2813b3b383982325f5c92e821cc2dfd1411b212c.zip",
       "changelog": "<h3>What's New in This Update</h3>\n<b>Camera Enhancements</b><br>\n<br>\n📹 Enhanced auto exposure stability for recording via the front camera.<br>\n🔭 Enhanced rear camera autofocus performance for better captures.<br>\n📷 Optimised HDR brightness consistency for rear camera portrait shots.<br>\n🏙️ Refined colour rendering for a more natural and vivid experience.<br>\n<br>\n<b>General Improvements and Bug Fixes</b><br>\n<br>\n🫧 Notifications that are frequently interacted with may be suggested to be set as Essential Notification. <br>\n🔋 Refined the spacing of status bar icons for a more consistent and coordinated layout.<br>\n📳 Optimised haptic feedback in the Recorder app for a more tactile experience.<br>\n📱 Fixed some known issues for a smoother and more stable experience.<br>\n⚙️ Enhanced overall system stability.<br>\n🛡️ Updated to April 2026 security patch.<br>\n<br>\n<b>Notes:</b><br>\nYour device may use more power and feel warmer during installation. Performance will return to normal after the update is complete.<br>",
       "extracted_at": "2026-04-02 12:29:00 UTC"
-    },
-    {
-      "title": "Nothing Phone (4a)",
-      "version": "Nothing OS B4.1-260911-0959",
-      "codename": "Frogger",
-      "source_fingerprint": "Nothing/Frogger/Frogger:16/BQ2A.250913.001-BP2A.250605.031.A3/2608081352:user/release-keys",
-      "fingerprint": "Nothing/Frogger/Frogger:16/BQ2A.250913.001-BP2A.250605.031.A3/2609110959:user/release-keys|Nothing/FroggerEEA/Frogger:16/BQ2A.250913.001-BP2A.250605.031.A3/2609110959:user/release-keys|Nothing/FroggerIND/Frogger:16/BQ2A.250913.001-BP2A.250605.031.A3/2609110959:user/release-keys|Nothing/FroggerJPN/Frogger:16/BQ2A.250913.001-BP2A.250605.031.A3/2609110959:user/release-keys|Nothing/FroggerTUR/Frogger:16/BQ2A.250913.001-BP2A.250605.031.A3/2609110959:user/release-keys",
-      "ota_url": "https://android.googleapis.com/packages/ota-api/package/45c070bc4872e8f056060dd1aa87d275ad9316fa.zip",
-      "changelog": "<h3>What's New in This Update</h3>\n<b>General Improvements and Bug Fixes</b><br>\n<br>\n📷 Enhanced overall camera stability.<br>\n⚙️ Enhanced overall system stability.<br>\n🛡️ Updated to September 2026 security patch.<br>\n<br>\n<b>Notes:</b><br>\nYour device may use more power and feel warmer during installation. Performance will return to normal after the update is complete.<br>",
-      "extracted_at": "2026-10-08 12:04:53 UTC"
     }
   ],
   "FroggerPro": [
