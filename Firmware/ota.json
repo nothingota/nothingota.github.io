@@ -126,6 +126,16 @@
   "Asteroids": [
     {
       "title": "Nothing Phone (3a) Series",
+      "version": "Nothing OS B4.1-260929-1204",
+      "codename": "Asteroids",
+      "source_fingerprint": "Nothing/Asteroids/Asteroids:16/BQ2A.250721.001-BP2A.250605.031.A3/2608101153:user/release-keys",
+      "fingerprint": "Nothing/Asteroids/Asteroids:16/BQ2A.250721.001-BP2A.250605.031.A3/2609281204:user/release-keys|Nothing/AsteroidsEEA/Asteroids:16/BQ2A.250721.001-BP2A.250605.031.A3/2609281204:user/release-keys|Nothing/AsteroidsIND/Asteroids:16/BQ2A.250721.001-BP2A.250605.031.A3/2609281204:user/release-keys|Nothing/AsteroidsJPN/Asteroids:16/BQ2A.250721.001-BP2A.250605.031.A3/2609281204:user/release-keys|Nothing/AsteroidsPro/Asteroids:16/BQ2A.250721.001-BP2A.250605.031.A3/2609281204:user/release-keys|Nothing/AsteroidsProEEA/Asteroids:16/BQ2A.250721.001-BP2A.250605.031.A3/2609281204:user/release-keys|Nothing/AsteroidsProIND/Asteroids:16/BQ2A.250721.001-BP2A.250605.031.A3/2609281204:user/release-keys|Nothing/AsteroidsProTUR/Asteroids:16/BQ2A.250721.001-BP2A.250605.031.A3/2609281204:user/release-keys|Nothing/AsteroidsTUR/Asteroids:16/BQ2A.250721.001-BP2A.250605.031.A3/2609281204:user/release-keys",
+      "ota_url": "https://android.googleapis.com/packages/ota-api/package/9eeb7ab868c3e908781192fd401eb2f8284895b3.zip",
+      "changelog": "<h3>What's New in This Update</h3>\n<b>General Improvements and Bug Fixes</b><br>\n<br>\n⚙️ Enhanced overall system stability.<br>\n🛡️ Updated to September 2026 security patch.<br>\n<br>\n<b>Notes:</b><br>\nYour device may use more power and feel warmer during installation. Performance will return to normal after the update is complete.<br>",
+      "extracted_at": "2026-10-10 11:27:39 UTC"
+    },
+    {
+      "title": "Nothing Phone (3a) Series",
       "version": "Nothing OS B4.1-260810-1153",
       "codename": "Asteroids",
       "source_fingerprint": "Nothing/Asteroids/Asteroids:16/BQ2A.250721.001-BP2A.250605.031.A3/2606181048:user/release-keys",
@@ -198,6 +208,16 @@
   "PacmanPro": [
     {
       "title": "Nothing Phone (2a) Plus",
+      "version": "Nothing OS B4.1-260928-1201",
+      "codename": "PacmanPro",
+      "source_fingerprint": "Nothing/PacmanProIND/PacmanPro:16/BP2A.250605.031.A3/2608130941:user/release-keys",
+      "fingerprint": "Nothing/PacmanPro/PacmanPro:16/BP2A.250605.031.A3/2609281201:user/release-keys|Nothing/PacmanProEEA/PacmanPro:16/BP2A.250605.031.A3/2609281201:user/release-keys|Nothing/PacmanProIND/PacmanPro:16/BP2A.250605.031.A3/2609281201:user/release-keys",
+      "ota_url": "https://android.googleapis.com/packages/ota-api/package/c2688a72b3f86dd1c334f2c7849b4b626aa086ca.zip",
+      "changelog": "<h3>What's New in This Update</h3>\n<b>General Improvements and Bug Fixes</b><br>\n<br>\n💬 Fixed an issue where third-party notifications could crash unexpectedly in certain scenarios.<br>\n⚙️ Enhanced overall system stability.<br>\n🛡️ Updated to October 2026 security patch.<br>\n<br>\n<b>Notes:</b><br>\nYour device may use more power and feel warmer during installation. Performance will return to normal after the update is complete.<br>",
+      "extracted_at": "2026-10-10 11:27:34 UTC"
+    },
+    {
+      "title": "Nothing Phone (2a) Plus",
       "version": "Nothing OS B4.1-260813-0941",
       "codename": "PacmanPro",
       "source_fingerprint": "Nothing/PacmanProIND/PacmanPro:16/BP2A.250605.031.A3/2606091926:user/release-keys",
@@ -268,6 +288,16 @@
     }
   ],
   "Pacman": [
+    {
+      "title": "Nothing Phone (2a)",
+      "version": "Nothing OS B4.1-260928-1157",
+      "codename": "Pacman",
+      "source_fingerprint": "Nothing/Pacman/Pacman:16/BP2A.250605.031.A3/2608130941:user/release-keys",
+      "fingerprint": "Nothing/Pacman/Pacman:16/BP2A.250605.031.A3/2609281157:user/release-keys|Nothing/PacmanEEA/Pacman:16/BP2A.250605.031.A3/2609281157:user/release-keys|Nothing/PacmanIND/Pacman:16/BP2A.250605.031.A3/2609281157:user/release-keys|Nothing/PacmanJPN/Pacman:16/BP2A.250605.031.A3/2609281157:user/release-keys",
+      "ota_url": "https://android.googleapis.com/packages/ota-api/package/5fdc1106345ae3ceee5d4d44537c85fa893be3e9.zip",
+      "changelog": "<h3>What's New in This Update</h3>\n<b>General Improvements and Bug Fixes</b><br>\n<br>\n💬 Fixed an issue where third-party notifications could crash unexpectedly in certain scenarios.<br>\n⚙️ Enhanced overall system stability.<br>\n🛡️ Updated to October 2026 security patch.<br>\n<br>\n<b>Notes:</b><br>\nYour device may use more power and feel warmer during installation. Performance will return to normal after the update is complete.<br>",
+      "extracted_at": "2026-10-10 11:27:28 UTC"
+    },
     {
       "title": "Nothing Phone (2a)",
       "version": "Nothing OS B4.1-260813-0941",
@@ -354,6 +384,16 @@
   "Galaga": [
     {
       "title": "CMF Phone 2 Pro",
+      "version": "Nothing OS B4.1-260928-1137",
+      "codename": "Galaga",
+      "source_fingerprint": "Nothing/Galaga/Galaga:16/BP2A.250605.031.A3/2608121729:user/release-keys",
+      "fingerprint": "Nothing/Galaga/Galaga:16/BP2A.250605.031.A3/2609281137:user/release-keys|Nothing/GalagaEEA/Galaga:16/BP2A.250605.031.A3/2609281137:user/release-keys|Nothing/GalagaIND/Galaga:16/BP2A.250605.031.A3/2609281137:user/release-keys|Nothing/GalagaJPN/Galaga:16/BP2A.250605.031.A3/2609281137:user/release-keys|Nothing/GalagaTUR/Galaga:16/BP2A.250605.031.A3/2609281137:user/release-keys",
+      "ota_url": "https://android.googleapis.com/packages/ota-api/package/6e4cbe7d054f1f1e221fa9d09d179b5b5d698fbd.zip",
+      "changelog": "<h3>What's New in This Update</h3>\n<b>General Improvements and Bug Fixes</b><br>\n<br>\n🔗 Enhanced Bluetooth transfer stability and performance.<br>\n⚙️ Enhanced overall system stability.<br>\n🛡️ Updated to October 2026 security patch.<br>\n<br>\n<b>Notes:</b><br>\nYour device may use more power and feel warmer during installation. Performance will return to normal after the update is complete.<br>",
+      "extracted_at": "2026-10-10 11:27:59 UTC"
+    },
+    {
+      "title": "CMF Phone 2 Pro",
       "version": "Nothing OS B4.1-260812-1729",
       "codename": "Galaga",
       "source_fingerprint": "Nothing/Galaga/Galaga:16/BP2A.250605.031.A3/2604151710:user/release-keys",
@@ -426,6 +466,16 @@
     }
   ],
   "Tetris": [
+    {
+      "title": "CMF Phone 1",
+      "version": "Nothing OS B4.1-260928-1140",
+      "codename": "Tetris",
+      "source_fingerprint": "Nothing/Tetris/Tetris:16/BP2A.250605.031.A3/2608121726:user/release-keys",
+      "fingerprint": "Nothing/Tetris/Tetris:16/BP2A.250605.031.A3/2609281140:user/release-keys|Nothing/TetrisEEA/Tetris:16/BP2A.250605.031.A3/2609281140:user/release-keys|Nothing/TetrisIND/Tetris:16/BP2A.250605.031.A3/2609281140:user/release-keys|Nothing/TetrisTUR/Tetris:16/BP2A.250605.031.A3/2609281140:user/release-keys",
+      "ota_url": "https://android.googleapis.com/packages/ota-api/package/9882be53520d5dadd6285abd14a019a5fa83fd97.zip",
+      "changelog": "<h3>What's New in This Update</h3>\n<b>General Improvements and Bug Fixes</b><br>\n<br>\n🔗 Enhanced Bluetooth transfer stability and performance.<br>\n⚙️ Enhanced overall system stability.<br>\n🛡️ Updated to October 2026 security patch.<br>\n<br>\n<b>Notes:</b><br>\nYour device may use more power and feel warmer during installation. Performance will return to normal after the update is complete.<br>",
+      "extracted_at": "2026-10-10 11:27:48 UTC"
+    },
     {
       "title": "CMF Phone 1",
       "version": "Nothing OS B4.1-260812-1726",
