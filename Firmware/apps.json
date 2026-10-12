@@ -32,20 +32,20 @@
     "play_url": "https://play.google.com/store/apps/details?id=com.nothing.communitywidgets"
   },
   {
-    "app_id": "com.nothing.hearthstone",
-    "title": "Nothing Widgets",
-    "version": "3.4.1",
-    "changelog": "🧘‍♀️ Breathing Break widgets are now available, offering guided exercises to help you follow a breathing pace and relax.\n🛠️ General bug fixes and user experience improvements.",
-    "updated_at": "2026-08-27",
-    "play_url": "https://play.google.com/store/apps/details?id=com.nothing.hearthstone"
-  },
-  {
     "app_id": "com.nothing.ntessentialspace",
     "title": "Essential Space",
     "version": "2.2.0",
     "changelog": "What’s New in Essential Space\n• Stability & Performance\n 🐞 Bug fixes and stability enhancements.",
     "updated_at": "2026-09-18",
     "play_url": "https://play.google.com/store/apps/details?id=com.nothing.ntessentialspace"
+  },
+  {
+    "app_id": "com.nothing.hearthstone",
+    "title": "Nothing Widgets",
+    "version": "3.4.1",
+    "changelog": "🧘‍♀️ Breathing Break widgets are now available, offering guided exercises to help you follow a breathing pace and relax.\n🛠️ General bug fixes and user experience improvements.",
+    "updated_at": "2026-08-27",
+    "play_url": "https://play.google.com/store/apps/details?id=com.nothing.hearthstone"
   },
   {
     "app_id": "com.nothing.wallpaper",
@@ -98,9 +98,9 @@
   {
     "app_id": "com.nothing.smartcenter",
     "title": "Nothing X",
-    "version": "3.9.0",
-    "changelog": "1. Supports new Headphone (1) Pro \n2. Bug fixes and improvements",
-    "updated_at": "2026-09-21",
+    "version": "3.10.0",
+    "changelog": "1. Supports the all-new CMF Speaker S and CMF Speaker M\n2. Bug fixes and improvements",
+    "updated_at": "2026-09-29",
     "play_url": "https://play.google.com/store/apps/details?id=com.nothing.smartcenter"
   }
 ]
