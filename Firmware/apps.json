@@ -42,8 +42,8 @@
   {
     "app_id": "com.nothing.hearthstone",
     "title": "Nothing Widgets",
-    "version": "3.4.1",
-    "changelog": "🧘‍♀️ Breathing Break widgets are now available, offering guided exercises to help you follow a breathing pace and relax.\n🛠️ General bug fixes and user experience improvements.",
+    "version": "3.5.3",
+    "changelog": "🛠️ General bug fixes and user experience improvements.",
     "updated_at": "2026-08-27",
     "play_url": "https://play.google.com/store/apps/details?id=com.nothing.hearthstone"
   },
@@ -54,6 +54,14 @@
     "changelog": "🔧 Fixed general bugs and improved the user experience.",
     "updated_at": "2026-07-06",
     "play_url": "https://play.google.com/store/apps/details?id=com.nothing.wallpaper"
+  },
+  {
+    "app_id": "com.nothing.essentialapps",
+    "title": "Essential Apps",
+    "version": "1.0.43",
+    "changelog": "Bug fixes and improvements",
+    "updated_at": "2026-10-05",
+    "play_url": "https://play.google.com/store/apps/details?id=com.nothing.essentialapps"
   },
   {
     "app_id": "com.nothing.games",
@@ -70,14 +78,6 @@
     "changelog": "👾 General bug fixes & minor experience improvements\n💬 Support Japanese Ndot font\n🛠️ Support change the font in Settings-Experimental features",
     "updated_at": "2025-07-08",
     "play_url": "https://play.google.com/store/apps/details?id=com.nothing.glyph.composer"
-  },
-  {
-    "app_id": "com.nothing.essentialapps",
-    "title": "Essential Apps",
-    "version": "1.0.43",
-    "changelog": "Bug fixes and improvements",
-    "updated_at": "2026-10-05",
-    "play_url": "https://play.google.com/store/apps/details?id=com.nothing.essentialapps"
   },
   {
     "app_id": "com.nothing.essential.search",
