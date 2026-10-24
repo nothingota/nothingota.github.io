@@ -189,6 +189,13 @@ Found a bug or a wrong changelog? Open an [issue](../../issues) or use **Setting
 ---
 
 <div align="center">
+⭐ Like the project?
+
+Drop a star on the repo, it helps more Nothing users find the app.
+
+<a href="https://github.com/nothingota/nothingota.github.io"> <img src="https://img.shields.io/github/stars/nothingota/nothingota.github.io?style=social" alt="GitHub stars" /> </a> </div>
+
+<div align="center">
 
 **Unofficial · Independent project**
 
