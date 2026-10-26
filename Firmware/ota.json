@@ -2,6 +2,16 @@
   "Pong": [
     {
       "title": "Nothing Phone (2)",
+      "version": "Nothing OS B4.1-261014-1615",
+      "codename": "Pong",
+      "source_fingerprint": "Nothing/Pong/Pong:16/BQ2A.250721.001-BP2A.250605.031.A3/2608181726:user/release-keys",
+      "fingerprint": "Nothing/Pong/Pong:16/BQ2A.250721.001-BP2A.250605.031.A3/2610141615:user/release-keys|Nothing/PongEEA/Pong:16/BQ2A.250721.001-BP2A.250605.031.A3/2610141615:user/release-keys|Nothing/PongIND/Pong:16/BQ2A.250721.001-BP2A.250605.031.A3/2610141615:user/release-keys",
+      "ota_url": "https://android.googleapis.com/packages/ota-api/package/fbe96e185535d2f3c3ebd1aad8a6d6ccdcdd867a.zip",
+      "changelog": "<h3>What's New in This Update</h3>\n<b>General Improvements and Bug Fixes</b><br>\n<br>\n🎞️ Improved playback smoothness for videos recorded at 1080P 60FPS.<br>\n🔗 Optimised Bluetooth connection stability when activating the voice assistant.<br>\n🛜 Fixed an issue where the Wi-Fi hotspot frequency did not match the selection in certain cases.<br>\n⚙️ Enhanced overall system stability.<br>\n🛡️ Updated to October 2026 security patch.<br>\n<br>\n<b>Notes:</b><br>\nYour device may use more power and feel warmer during installation. Performance will return to normal after the update is complete.<br>",
+      "extracted_at": "2026-10-26 10:44:50 UTC"
+    },
+    {
+      "title": "Nothing Phone (2)",
       "version": "Nothing OS B4.1-260818-1726",
       "codename": "Pong",
       "source_fingerprint": "Nothing/Pong/Pong:16/BQ2A.250721.001-BP2A.250605.031.A3/2606181026:user/release-keys",
