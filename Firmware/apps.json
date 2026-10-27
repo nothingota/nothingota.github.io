@@ -1,5 +1,13 @@
 [
   {
+    "app_id": "com.nothing.gallery",
+    "title": "Nothing Gallery",
+    "version": "3.1.3.1019",
+    "changelog": "This release focuses on stability and key bug fixes.",
+    "updated_at": "2026-10-27",
+    "play_url": "https://play.google.com/store/apps/details?id=com.nothing.gallery"
+  },
+  {
     "app_id": "com.nothing.launcher",
     "title": "Nothing Launcher",
     "version": "4.0.18",
@@ -8,20 +16,20 @@
     "play_url": "https://play.google.com/store/apps/details?id=com.nothing.launcher"
   },
   {
-    "app_id": "com.nothing.gallery",
-    "title": "Nothing Gallery",
-    "version": "3.1.2.0819",
-    "changelog": "This release focuses on stability and key bug fixes.",
-    "updated_at": "2026-08-21",
-    "play_url": "https://play.google.com/store/apps/details?id=com.nothing.gallery"
-  },
-  {
     "app_id": "com.nothing.weather",
     "title": "Nothing Weather",
     "version": "3.4.1",
     "changelog": "🛠️ General bug fixes and enhanced user experience.",
     "updated_at": "2026-10-20",
     "play_url": "https://play.google.com/store/apps/details?id=com.nothing.weather"
+  },
+  {
+    "app_id": "com.nothing.user.center",
+    "title": "Nothing Account",
+    "version": "17.06.02",
+    "changelog": "Bug fixes and improvements",
+    "updated_at": "2026-10-21",
+    "play_url": "https://play.google.com/store/apps/details?id=com.nothing.user.center"
   },
   {
     "app_id": "com.nothing.communitywidgets",
@@ -94,14 +102,6 @@
     "changelog": "👾 General bug fixes and general improvements.",
     "updated_at": "2024-07-17",
     "play_url": "https://play.google.com/store/apps/details?id=com.nothing.icon"
-  },
-  {
-    "app_id": "com.nothing.user.center",
-    "title": "Nothing Account",
-    "version": "17.06.02",
-    "changelog": "Bug fixes and improvements",
-    "updated_at": "2026-10-21",
-    "play_url": "https://play.google.com/store/apps/details?id=com.nothing.user.center"
   },
   {
     "app_id": "com.nothing.smartcenter",
