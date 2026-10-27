@@ -40,20 +40,20 @@
     "play_url": "https://play.google.com/store/apps/details?id=com.nothing.communitywidgets"
   },
   {
-    "app_id": "com.nothing.ntessentialspace",
-    "title": "Essential Space",
-    "version": "2.2.0",
-    "changelog": "What’s New in Essential Space\n• Stability & Performance\n 🐞 Bug fixes and stability enhancements.",
-    "updated_at": "2026-09-18",
-    "play_url": "https://play.google.com/store/apps/details?id=com.nothing.ntessentialspace"
-  },
-  {
     "app_id": "com.nothing.hearthstone",
     "title": "Nothing Widgets",
     "version": "3.5.3",
     "changelog": "🛠️ General bug fixes and user experience improvements.",
     "updated_at": "2026-10-15",
     "play_url": "https://play.google.com/store/apps/details?id=com.nothing.hearthstone"
+  },
+  {
+    "app_id": "com.nothing.ntessentialspace",
+    "title": "Essential Space",
+    "version": "2.2.0",
+    "changelog": "What’s New in Essential Space\n• Stability & Performance\n 🐞 Bug fixes and stability enhancements.",
+    "updated_at": "2026-09-18",
+    "play_url": "https://play.google.com/store/apps/details?id=com.nothing.ntessentialspace"
   },
   {
     "app_id": "com.nothing.wallpaper",
