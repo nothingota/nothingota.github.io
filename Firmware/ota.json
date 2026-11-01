@@ -166,7 +166,7 @@
     },
     {
       "title": "Nothing Phone (3a) Series",
-      "version": "Nothing OS C5.0-261023-2146",       
+      "version": "OBT→ Nothing OS C5.0-261023-2146",       
       "codename": "Asteroids",
       "source_fingerprint": "Nothing/AsteroidsPro/Asteroids:17/CQ2A.260522.002-CP2A.260605.016/2609152123:user/release-keys",
       "fingerprint": "Nothing/Asteroids/Asteroids:17/CQ2A.260522.002-CP2A.260605.016/2610232146:user/release-keys|Nothing/AsteroidsEEA/Asteroids:17/CQ2A.260522.002-CP2A.260605.016/2610232146:user/release-keys|Nothing/AsteroidsIND/Asteroids:17/CQ2A.260522.002-CP2A.260605.016/2610232146:user/release-keys|Nothing/AsteroidsJPN/Asteroids:17/CQ2A.260522.002-CP2A.260605.016/2610232146:user/release-keys|Nothing/AsteroidsPro/Asteroids:17/CQ2A.260522.002-CP2A.260605.016/2610232146:user/release-keys|Nothing/AsteroidsProEEA/Asteroids:17/CQ2A.260522.002-CP2A.260605.016/2610232146:user/release-keys|Nothing/AsteroidsProIND/Asteroids:17/CQ2A.260522.002-CP2A.260605.016/2610232146:user/release-keys|Nothing/AsteroidsProTUR/Asteroids:17/CQ2A.260522.002-CP2A.260605.016/2610232146:user/release-keys|Nothing/AsteroidsTUR/Asteroids:17/CQ2A.260522.002-CP2A.260605.016/2610232146:user/release-keys",
@@ -652,7 +652,7 @@
     },
     {
       "title": "Nothing Phone (4a) Pro",
-      "version": "Nothing OS C5.0-261021-1625",       
+      "version": "OBT→ Nothing OS C5.0-261021-1625",       
       "codename": "FroggerPro",
       "source_fingerprint": "Nothing/FroggerPro/FroggerPro:17/CQ2A.260522.002-CP2A.260605.016/2609021559:user/release-keys",
       "fingerprint": "Nothing/FroggerPro/FroggerPro:17/CQ2A.260522.002-CP2A.260605.016/2610211625:user/release-keys|Nothing/FroggerProEEA/FroggerPro:17/CQ2A.260522.002-CP2A.260605.016/2610211625:user/release-keys|Nothing/FroggerProIND/FroggerPro:17/CQ2A.260522.002-CP2A.260605.016/2610211625:user/release-keys|Nothing/FroggerProJPN/FroggerPro:17/CQ2A.260522.002-CP2A.260605.016/2610211625:user/release-keys|Nothing/FroggerProTUR/FroggerPro:17/CQ2A.260522.002-CP2A.260605.016/2610211625:user/release-keys",
