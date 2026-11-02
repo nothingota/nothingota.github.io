@@ -80,20 +80,20 @@
     "play_url": "https://play.google.com/store/apps/details?id=com.nothing.games"
   },
   {
-    "app_id": "com.nothing.essential.search",
-    "title": "Essential Search",
-    "version": "1.0.3",
-    "changelog": "🛠️ General bug fixes and performance improvements.",
-    "updated_at": "2026-01-30",
-    "play_url": "https://play.google.com/store/apps/details?id=com.nothing.essential.search"
-  },
-  {
     "app_id": "com.nothing.glyph.composer",
     "title": "Glyph Composer",
     "version": "1.4.4",
     "changelog": "👾 General bug fixes & minor experience improvements\n💬 Support Japanese Ndot font\n🛠️ Support change the font in Settings-Experimental features",
     "updated_at": "2025-07-08",
     "play_url": "https://play.google.com/store/apps/details?id=com.nothing.glyph.composer"
+  },
+  {
+    "app_id": "com.nothing.essential.search",
+    "title": "Essential Search",
+    "version": "1.0.3",
+    "changelog": "🛠️ General bug fixes and performance improvements.",
+    "updated_at": "2026-01-30",
+    "play_url": "https://play.google.com/store/apps/details?id=com.nothing.essential.search"
   },
   {
     "app_id": "com.nothing.icon",
@@ -106,9 +106,9 @@
   {
     "app_id": "com.nothing.smartcenter",
     "title": "Nothing X",
-    "version": "3.10.1",
+    "version": "3.10.2",
     "changelog": "1. Bug fixes and improvements",
-    "updated_at": "2026-10-22",
+    "updated_at": "2026-11-02",
     "play_url": "https://play.google.com/store/apps/details?id=com.nothing.smartcenter"
   }
 ]
