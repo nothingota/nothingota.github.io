@@ -2,9 +2,9 @@
   {
     "app_id": "com.nothing.gallery",
     "title": "Nothing Gallery",
-    "version": "3.1.3.1019",
+    "version": "3.1.4.1030",
     "changelog": "This release focuses on stability and key bug fixes.",
-    "updated_at": "2026-10-27",
+    "updated_at": "2026-11-03",
     "play_url": "https://play.google.com/store/apps/details?id=com.nothing.gallery"
   },
   {
@@ -24,6 +24,14 @@
     "play_url": "https://play.google.com/store/apps/details?id=com.nothing.weather"
   },
   {
+    "app_id": "com.nothing.user.center",
+    "title": "Nothing Account",
+    "version": "17.06.02",
+    "changelog": "Bug fixes and improvements",
+    "updated_at": "2026-10-21",
+    "play_url": "https://play.google.com/store/apps/details?id=com.nothing.user.center"
+  },
+  {
     "app_id": "com.nothing.communitywidgets",
     "title": "Nothing Community Widgets",
     "version": "1.1.2",
@@ -38,14 +46,6 @@
     "changelog": "What’s New in Essential Space\n• Capture Card Redesign\n✨ A fresh look for your captures, making key information easier to find at a glance.\n• Stability & Performance\n🐞 Bug fixes and stability enhancements.",
     "updated_at": "2026-11-02",
     "play_url": "https://play.google.com/store/apps/details?id=com.nothing.ntessentialspace"
-  },
-  {
-    "app_id": "com.nothing.user.center",
-    "title": "Nothing Account",
-    "version": "17.06.02",
-    "changelog": "Bug fixes and improvements",
-    "updated_at": "2026-10-21",
-    "play_url": "https://play.google.com/store/apps/details?id=com.nothing.user.center"
   },
   {
     "app_id": "com.nothing.hearthstone",
@@ -72,14 +72,6 @@
     "play_url": "https://play.google.com/store/apps/details?id=com.nothing.wallpaper"
   },
   {
-    "app_id": "com.nothing.games",
-    "title": "Games",
-    "version": "1.0.2",
-    "changelog": "Welcome to Games! Dive into simple, fast, and engaging experiences designed to help you unwind. Ready for your next adventure? Just tap and play!",
-    "updated_at": "2026-05-13",
-    "play_url": "https://play.google.com/store/apps/details?id=com.nothing.games"
-  },
-  {
     "app_id": "com.nothing.glyph.composer",
     "title": "Glyph Composer",
     "version": "1.4.4",
@@ -94,6 +86,14 @@
     "changelog": "🛠️ General bug fixes and performance improvements.",
     "updated_at": "2026-01-30",
     "play_url": "https://play.google.com/store/apps/details?id=com.nothing.essential.search"
+  },
+  {
+    "app_id": "com.nothing.games",
+    "title": "Games",
+    "version": "1.0.2",
+    "changelog": "Welcome to Games! Dive into simple, fast, and engaging experiences designed to help you unwind. Ready for your next adventure? Just tap and play!",
+    "updated_at": "2026-05-13",
+    "play_url": "https://play.google.com/store/apps/details?id=com.nothing.games"
   },
   {
     "app_id": "com.nothing.icon",
