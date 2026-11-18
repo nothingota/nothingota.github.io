@@ -452,6 +452,16 @@
   "SuperContra": [
     {
       "title": "Nothing Phone (4b)",
+      "version": "Nothing OS B4.1-261111-1740",
+      "codename": "SuperContra",
+      "source_fingerprint": "Nothing/SuperContra/SuperContra:16/BQ2A.260210.001-BP2A.250705.008/2609041739:user/release-keys",
+      "fingerprint": "Nothing/SuperContra/SuperContra:16/BQ2A.260210.001-BP2A.250705.008/2611111740:user/release-keys|Nothing/SuperContraEEA/SuperContra:16/BQ2A.260210.001-BP2A.250705.008/2611111740:user/release-keys|Nothing/SuperContraIND/SuperContra:16/BQ2A.260210.001-BP2A.250705.008/2611111740:user/release-keys|Nothing/SuperContraJPN/SuperContra:16/BQ2A.260210.001-BP2A.250705.008/2611111740:user/release-keys|Nothing/SuperContraTUR/SuperContra:16/BQ2A.260210.001-BP2A.250705.008/2611111740:user/release-keys",
+      "ota_url": "https://android.googleapis.com/packages/ota-api/package/11860df9811468029f87e3d39d7a2625c86e0da7.zip",
+      "changelog": "<h3>What's New in This Update</h3>\n<b>General Improvements and Bug Fixes</b><br>\n<br>\n⛓️‍💥 Fixed an issue where Wi-Fi could unexpectedly disconnect and fail to reconnect.<br>\n🌐 Enhanced overall network performance and stability.<br>\n⚙️ Enhanced overall system stability and resolved occasional crashes.<br>\n🛡️ Updated to November 2026 security patch.<br>\n<br>\n<b>Notes:</b><br>\nYour device may use more power and feel warmer during installation. Performance will return to normal after the update is complete.<br>",
+      "extracted_at": "2026-11-18 10:23:40 UTC"
+    },
+    {
+      "title": "Nothing Phone (4b)",
       "version": "Nothing OS B4.1-260904-1739",
       "codename": "SuperContra",
       "source_fingerprint": "Nothing/SuperContra/SuperContra:16/BQ2A.260210.001-BP2A.250705.008/2608111606:user/release-keys",
