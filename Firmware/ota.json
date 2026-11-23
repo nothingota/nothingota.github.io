@@ -514,6 +514,16 @@
   "Galaga": [
     {
       "title": "CMF Phone 2 Pro",
+      "version": "Nothing OS B4.1-261028-1604",
+      "codename": "Galaga",
+      "source_fingerprint": "Nothing/Galaga/Galaga:16/BP2A.250605.031.A3/2609281137:user/release-keys",
+      "fingerprint": "Nothing/Galaga/Galaga:16/BP2A.250605.031.A3/2610281604:user/release-keys|Nothing/GalagaEEA/Galaga:16/BP2A.250605.031.A3/2610281604:user/release-keys|Nothing/GalagaIND/Galaga:16/BP2A.250605.031.A3/2610281604:user/release-keys|Nothing/GalagaJPN/Galaga:16/BP2A.250605.031.A3/2610281604:user/release-keys|Nothing/GalagaTUR/Galaga:16/BP2A.250605.031.A3/2610281604:user/release-keys",
+      "ota_url": "https://android.googleapis.com/packages/ota-api/package/4b31c3f232b3a8a7600c310e57c2e5276ea5966b.zip",
+      "changelog": "<h3>What's New in This Update</h3>\n<b>General Improvements and Bug Fixes</b><br>\n<br>\n🔗 Enhanced Bluetooth reliability.<br>\n⚙️ Enhanced overall system stability.<br>\n🛡️ Updated to November 2026 security patch.<br>\n<br>\n<b>Notes:</b><br>\nYour device may use more power and feel warmer during installation. Performance will return to normal after the update is complete.<br>",
+      "extracted_at": "2026-11-23 10:43:59 UTC"
+    },
+    {
+      "title": "CMF Phone 2 Pro",
       "version": "Nothing OS B4.1-260928-1137",
       "codename": "Galaga",
       "source_fingerprint": "Nothing/Galaga/Galaga:16/BP2A.250605.031.A3/2608121729:user/release-keys",
@@ -626,6 +636,16 @@
     }
   ],
   "Tetris": [
+    {
+      "title": "CMF Phone 1",
+      "version": "Nothing OS B4.1-261028-1606",
+      "codename": "Tetris",
+      "source_fingerprint": "Nothing/Tetris/Tetris:16/BP2A.250605.031.A3/2609281140:user/release-keys",
+      "fingerprint": "Nothing/Tetris/Tetris:16/BP2A.250605.031.A3/2610281606:user/release-keys|Nothing/TetrisEEA/Tetris:16/BP2A.250605.031.A3/2610281606:user/release-keys|Nothing/TetrisIND/Tetris:16/BP2A.250605.031.A3/2610281606:user/release-keys|Nothing/TetrisTUR/Tetris:16/BP2A.250605.031.A3/2610281606:user/release-keys",
+      "ota_url": "https://android.googleapis.com/packages/ota-api/package/844fd74a01f12d2f3eaf487ebfd9831b838c16f4.zip",
+      "changelog": "<h3>What's New in This Update</h3>\n<b>General Improvements and Bug Fixes</b><br>\n<br>\n🔗 Enhanced Bluetooth reliability.<br>\n⚙️ Enhanced overall system stability.<br>\n🛡️ Updated to November 2026 security patch.<br>\n<br>\n<b>Notes:</b><br>\nYour device may use more power and feel warmer during installation. Performance will return to normal after the update is complete.<br>",
+      "extracted_at": "2026-11-23 10:43:49 UTC"
+    },
     {
       "title": "CMF Phone 1",
       "version": "Nothing OS B4.1-260928-1140",
